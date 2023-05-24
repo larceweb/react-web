@@ -9,7 +9,6 @@ function App() {
         <h1>
           React application - this is my application
        </h1>
-       <p>Nikasio ahora debemos hacer las sopaipilla. y hacer te</p>
         <a
           className="App-link"
           href="https://reactjs.org"
